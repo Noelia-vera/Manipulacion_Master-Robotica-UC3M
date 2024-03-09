@@ -1,0 +1,6 @@
+devel_space: /home/noelia/manipulacion_ws/devel
+install: false
+install_space: /home/noelia/manipulacion_ws/install
+profile: default
+source_space: /home/noelia/manipulacion_ws/src
+workspace: /home/noelia/manipulacion_ws
