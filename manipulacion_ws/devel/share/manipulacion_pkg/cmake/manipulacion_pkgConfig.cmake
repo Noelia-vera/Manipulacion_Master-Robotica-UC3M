@@ -1,1 +1,0 @@
-/home/noelia/manipulacion_ws/devel/.private/manipulacion_pkg/share/manipulacion_pkg/cmake/manipulacion_pkgConfig.cmake

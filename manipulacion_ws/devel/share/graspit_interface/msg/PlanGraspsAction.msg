@@ -1,1 +1,0 @@
-/home/noelia/manipulacion_ws/devel/.private/graspit_interface/share/graspit_interface/msg/PlanGraspsAction.msg

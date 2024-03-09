@@ -40,7 +40,7 @@ En esta práctica se prentende coger un objeto con un determinado gripper, pasar
 
 ***
 #### SELECCIÓN DEL OBJETO Y GARRA
-en este caso, se va a realizar la práctica es un schunk y un construction_cone
+En este caso, se va a realizar la práctica es un schunk y un construction_cone
 
 #### PASOS PREVIOS:
 Se lanza GRASPIT!

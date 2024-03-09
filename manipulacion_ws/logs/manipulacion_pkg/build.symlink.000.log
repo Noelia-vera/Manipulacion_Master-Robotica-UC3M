@@ -1,8 +1,0 @@
-Symlinking /home/noelia/manipulacion_ws/devel/share/manipulacion_pkg/cmake/manipulacion_pkgConfig.cmake
-Symlinking /home/noelia/manipulacion_ws/devel/share/manipulacion_pkg/cmake/manipulacion_pkgConfig-version.cmake
-Symlinking /home/noelia/manipulacion_ws/devel/lib/manipulacion_pkg/set_grippers_initial_joint_positions.py
-Symlinking /home/noelia/manipulacion_ws/devel/lib/manipulacion_pkg/set_joints_initial_position.py
-Symlinking /home/noelia/manipulacion_ws/devel/lib/manipulacion_pkg/cmake.lock
-Symlinking /home/noelia/manipulacion_ws/devel/lib/manipulacion_pkg/set_initial_joint_states.py
-Symlinking /home/noelia/manipulacion_ws/devel/lib/manipulacion_pkg/publish_obstacle_rviz.py
-Symlinking /home/noelia/manipulacion_ws/devel/lib/pkgconfig/manipulacion_pkg.pc

@@ -1,1 +1,0 @@
-/home/noelia/manipulacion_ws/devel/.private/graspit_interface/lib/pkgconfig/graspit_interface.pc

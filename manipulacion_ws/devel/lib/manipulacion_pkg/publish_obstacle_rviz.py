@@ -1,1 +1,0 @@
-/home/noelia/manipulacion_ws/devel/.private/manipulacion_pkg/lib/manipulacion_pkg/publish_obstacle_rviz.py

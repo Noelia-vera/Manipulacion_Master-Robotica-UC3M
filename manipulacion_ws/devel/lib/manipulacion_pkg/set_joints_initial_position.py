@@ -1,1 +1,0 @@
-/home/noelia/manipulacion_ws/devel/.private/manipulacion_pkg/lib/manipulacion_pkg/set_joints_initial_position.py

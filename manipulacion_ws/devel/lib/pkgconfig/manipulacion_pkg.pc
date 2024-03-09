@@ -1,1 +1,0 @@
-/home/noelia/manipulacion_ws/devel/.private/manipulacion_pkg/lib/pkgconfig/manipulacion_pkg.pc
