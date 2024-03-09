@@ -200,9 +200,9 @@ rospy.sleep(1)
 
 # Definición de la posición horizontal a 0.7 metros metros de la posición 2, movimientoel eje Y
 pose3_gripper_world = PyKDL.Frame(PyKDL.Rotation.Quaternion(qx, qy, qz, qw), PyKDL.Vector(pose2_gripper_world.p.x()+ 0.7, pose2_gripper_world.p.y(), pose2_gripper_world.p.z()))
-print("Pose3 gripper horizontalmente")
+print("Pose3 gripper desplazamiento horizontalmente")
 print(pose3_gripper_world)
-rospy.sleep(1)
+rospy.sleep(2)
 
 # Se llama a la función de interpolación entre pose2 y pose3 con 150 frames para generar una trayectoria fluida
 trayectoria2 = generar_trayectoria(pose2_gripper_world, pose3_gripper_world, num_frames=150)
@@ -214,13 +214,13 @@ for pose_interpolada2 in trayectoria2:
 rospy.sleep(1)
 
 # Definición de la posición vertical a 0.3 metros en el eje X y -0.4 metros en el eje Z,movimiento diagonal
-pose4_gripper_world = PyKDL.Frame(PyKDL.Rotation.Quaternion(qx, qy, qz, qw), PyKDL.Vector(pose3_gripper_world.p.x()+ 0.3, pose3_gripper_world.p.y(), pose3_gripper_world.p.z()-0.4))
-print("Pose4 gripper diagonal")
+pose4_gripper_world = PyKDL.Frame(PyKDL.Rotation.Quaternion(qx, qy, qz, qw), PyKDL.Vector(pose3_gripper_world.p.x()+ 0.2, pose3_gripper_world.p.y(), pose3_gripper_world.p.z()-0.4))
+print("Pose4 gripper desplazamiento diagonal")
 print(pose3_gripper_world)
 rospy.sleep(1)
 
 # Se llama a la función de interpolación entre pose3 y pose4 con 150 frames para generar una trayectoria fluida
-trayectoria3 = generar_trayectoria(pose3_gripper_world, pose4_gripper_world, num_frames=150)
+trayectoria3 = generar_trayectoria(pose3_gripper_world, pose4_gripper_world, num_frames=200)
 for pose_interpolada3 in trayectoria3:
     # Fijar la pose del gripper en la simulación de Gazebo
   simulacion_gripper_flotante.fijar_pose_gripper(pose_gripper_world=pose_interpolada3)   
