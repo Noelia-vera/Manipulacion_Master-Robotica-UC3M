@@ -1,0 +1,1 @@
+/home/noelia/manipulacion_ws/devel/.private/graspit_commander/lib/python3/dist-packages/graspit_commander/__init__.py

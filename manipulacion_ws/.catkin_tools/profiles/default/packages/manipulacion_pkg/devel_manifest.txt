@@ -1,0 +1,10 @@
+manipulacion_pkg
+/home/noelia/manipulacion_ws/devel/.private/manipulacion_pkg/cmake.lock /home/noelia/manipulacion_ws/devel/./cmake.lock
+/home/noelia/manipulacion_ws/devel/.private/manipulacion_pkg/share/manipulacion_pkg/cmake/manipulacion_pkgConfig.cmake /home/noelia/manipulacion_ws/devel/share/manipulacion_pkg/cmake/manipulacion_pkgConfig.cmake
+/home/noelia/manipulacion_ws/devel/.private/manipulacion_pkg/share/manipulacion_pkg/cmake/manipulacion_pkgConfig-version.cmake /home/noelia/manipulacion_ws/devel/share/manipulacion_pkg/cmake/manipulacion_pkgConfig-version.cmake
+/home/noelia/manipulacion_ws/devel/.private/manipulacion_pkg/lib/manipulacion_pkg/set_grippers_initial_joint_positions.py /home/noelia/manipulacion_ws/devel/lib/manipulacion_pkg/set_grippers_initial_joint_positions.py
+/home/noelia/manipulacion_ws/devel/.private/manipulacion_pkg/lib/manipulacion_pkg/set_joints_initial_position.py /home/noelia/manipulacion_ws/devel/lib/manipulacion_pkg/set_joints_initial_position.py
+/home/noelia/manipulacion_ws/devel/.private/manipulacion_pkg/lib/manipulacion_pkg/cmake.lock /home/noelia/manipulacion_ws/devel/lib/manipulacion_pkg/cmake.lock
+/home/noelia/manipulacion_ws/devel/.private/manipulacion_pkg/lib/manipulacion_pkg/set_initial_joint_states.py /home/noelia/manipulacion_ws/devel/lib/manipulacion_pkg/set_initial_joint_states.py
+/home/noelia/manipulacion_ws/devel/.private/manipulacion_pkg/lib/manipulacion_pkg/publish_obstacle_rviz.py /home/noelia/manipulacion_ws/devel/lib/manipulacion_pkg/publish_obstacle_rviz.py
+/home/noelia/manipulacion_ws/devel/.private/manipulacion_pkg/lib/pkgconfig/manipulacion_pkg.pc /home/noelia/manipulacion_ws/devel/lib/pkgconfig/manipulacion_pkg.pc

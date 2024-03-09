@@ -1,0 +1,1 @@
+/home/noelia/manipulacion_ws/devel/.private/manipulacion_pkg/lib/manipulacion_pkg/set_grippers_initial_joint_positions.py
