@@ -36,7 +36,7 @@
 * **urdf**
 ***
 #### FINALIDAD DE LA PRÁCTICA
-En esta práctica se prentende coger un objeto con un determinado gripper, pasarlo por encima de un obstáculo y depositarlo sobre el suelo. Para ello se va a usar GRSAPIT! y Gazebo
+En esta práctica se pretende coger un objeto con un determinado gripper, pasarlo por encima de un obstáculo y depositarlo sobre el suelo. Para ello se va a usar GRSAPIT! y Gazebo
 
 ***
 #### SELECCIÓN DEL OBJETO Y GARRA
@@ -95,5 +95,5 @@ El proceso que se usa para la simulación es:
 7. EL gripper se separa a 0.2 metros del objeto.
 
 ### RESULTADOS
-### [VIDEO DE DEMOSTRACIÓN](https://www.youtube.com/watch?v=36naFUwaNik)
+### [VIDEO DE DEMOSTRACIÓN](https://youtu.be/i169xTrFE5w)
 
