@@ -69,7 +69,7 @@ La pose usada es la que se ve a continuación, ya que fue la primera en no obten
 Se puede ejecutar tanto el notebook jupiter **practica_2.ipynb** como el archivo **robot_cone_arm.py**
 
 El proceso que se usa para la simulación es:
-1. Se posiciona el gripper a 0.2 metro del objeto con el misma posición y orientación que la pose calculada en la parte previa de GRASPIT!a una posición inicial cómoda para la configuración de las argitulaciones del brazo.
+1. Se posiciona el gripper a una posición inicial cómoda para la configuración de las articulaciones del brazo, no hace falta preagarre.
 2. Se coloca el gripper en la pose optima para coger el objeto.
 3. Se comprueban las colisiones.
 4. Se coge el objeto.
@@ -79,7 +79,7 @@ El proceso que se usa para la simulación es:
 * **Para realizar esta parte, se han decidido crear 2 puntos en el espacio, de modo que el brazo sube de manera vertical por encima dle obstáculo, y luego de manera horizontal, posicionando el objeto con un movimiento diagonal descendente en el suelo.** *
 
 6. Una vez el objeto esta en el suelo, el gripper se abre soltando el objeto.
-7. EL gripper se separa a 0.2 metros del objeto.
+7. El gripper se separa a 0.2 metros del objeto.
 
 ### COMENTARIOS IMPORTANTES
 
